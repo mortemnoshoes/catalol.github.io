@@ -1,0 +1,18 @@
+.seccion1 {font-family: 'Roboto'}
+.seccion1{text-align: center;}
+.seccion1 {font-size: 20px;}
+#body{
+    font-family: 'Roboto';
+}
+h1 {font-size: 30px;}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(universo.webp);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    background-attachment: fixed;
+}
+.dou {text-align: center;}
+.dou{font-size: 30px;}
